@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Node**
 
-- 📫 How to reach me **hardikpampaniya09@gmail.com**
+- 📫 How to reach me **hpampaniya09@gmail.com**
 
 - 📄 Know about my experiences [https://hardik-pampaniya.tiiny.site/](https://hardik-pampaniya.tiiny.site/)
 
